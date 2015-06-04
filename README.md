@@ -3,6 +3,8 @@ In this project we are building an intelligent home security system which is hig
 
 We built a home security and safety system around a raspberry pi. This device can detect humans through a web cam. 
 When this detects a human 1st
+              
+              
               1) A photo will upload in to google drive - this is a fully automated process.no need of logging in to gdrive
                                                           for authentication. upload() function take cares of this.
                                                       
